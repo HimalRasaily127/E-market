@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "psgc_code": "010000000",
+    "province_name": "Koshi province (कोशि प्रदेश)",
+    "province_code": "01"
+  },
+  {
+    "id": 2,
+    "psgc_code": "020000000",
+    "province_name": "province 2 (प्रदेश २)",
+    "province_code": "02"
+  },
+  {
+    "id": 3,
+    "psgc_code": "030000000",
+    "province_name": "Bagmati province",
+    "province_code": "03"
+  },
+  {
+    "id": 4,
+    "psgc_code": "040000000",
+    "province_name": "Gandaki province ",
+    "province_code": "04"
+  },
+  {
+    "id": 5,
+    "psgc_code": "170000000",
+    "province_name": " Lumbini province ",
+    "province_code": "05"
+  },
+  {
+    "id": 6,
+    "psgc_code": "050000000",
+    "province_name": "Karnali province ",
+    "province_code": "06"
+  },
+  {
+    "id": 7,
+    "psgc_code": "060000000",
+    "province_name": "Sudur paschim province ",
+    "province_code": "07"
+  } 
+  ]
